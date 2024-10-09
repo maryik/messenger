@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684886945202",
+    "project_id": "chat-programm-143a6",
+    "storage_bucket": "chat-programm-143a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684886945202:android:c8734cde74ac57b92108ab",
+        "android_client_info": {
+          "package_name": "com.vika.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu_yG9wQzxvxnyAB8ls08Iaub_r7pq2Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
